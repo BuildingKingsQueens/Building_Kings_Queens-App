@@ -1,18 +1,18 @@
 {
-  "name": "BASE Creator",
-  "bio": "",
-  "contactEmail": "Place Email",
+  "name": "Building Kings & Queens",
+  "bio": "BKQ",
+  "contactEmail": "Bkqincorporated@gmail.com",
   "contactLabel": "Email",
   "backgroundColor": "#000000",
   "background": {
-    "enabled": false,
-    "type": "none",
-    "url": ""
+    "enabled": true,
+    "type": "image",
+    "url": "./media/background-image-1792954745020.png"
   },
   "heroMedia": {
     "enabled": true,
     "type": "image",
-    "url": "./media/hero-image-1783820062284.png",
+    "url": "./media/hero-image-1792954747370.png",
     "animation": "float"
   },
   "chime": {
@@ -34,12 +34,21 @@
   },
   "links": [],
   "mediaGateway": {
-    "enabled": false,
+    "enabled": true,
     "collections": [
       {
-        "id": "collection-1783820011390-b6c047e8c036d8",
-        "title": "Add Media",
-        "items": []
+        "id": "collection-1792954689032-8fdfb600043fd",
+        "title": "Biography",
+        "items": [
+          {
+            "id": "item-1792954732501-cdee4def2e3f58",
+            "title": "Bio",
+            "description": "",
+            "thumbnail": "./media/thumb-item-1792954732501-cdee4def2e3f58-1792954750245.png",
+            "url": "./media/media-item-1792954732501-cdee4def2e3f58-1792954748624.png",
+            "access": "public"
+          }
+        ]
       }
     ],
     "presentation": {
@@ -59,5 +68,10 @@
     "buttonText": "Enter Community",
     "url": "",
     "embed": ""
+  },
+  "analytics": {
+    "enabled": false,
+    "provider": "",
+    "snippet": ""
   }
 }
