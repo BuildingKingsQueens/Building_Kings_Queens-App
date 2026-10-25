@@ -1,6 +1,6 @@
 {
-  "name": "Building Kings & Queens",
-  "bio": "BKQ",
+  "name": "Building Kings & Queens Inc",
+  "bio": "Building Kings & Queens Promotion of Leadership",
   "contactEmail": "Bkqincorporated@gmail.com",
   "contactLabel": "Email",
   "backgroundColor": "#000000",
@@ -23,7 +23,7 @@
   "pillColor": "#000000",
   "innerSurface": {
     "style": "color",
-    "color": "#d9cafe",
+    "color": "#be38f3",
     "url": ""
   },
   "live": {
