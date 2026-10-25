@@ -20,10 +20,10 @@
     "url": "",
     "volume": 0.65
   },
-  "pillColor": "#000000",
+  "pillColor": "#9929bd",
   "innerSurface": {
-    "style": "color",
-    "color": "#be38f3",
+    "style": "default",
+    "color": "",
     "url": ""
   },
   "live": {
