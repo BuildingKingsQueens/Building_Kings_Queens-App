@@ -22,8 +22,8 @@
   },
   "pillColor": "#000000",
   "innerSurface": {
-    "style": "default",
-    "color": "",
+    "style": "color",
+    "color": "#d9cafe",
     "url": ""
   },
   "live": {
